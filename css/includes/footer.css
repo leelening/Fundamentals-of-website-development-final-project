@@ -1,0 +1,8 @@
+footer#footer {
+    color: grey;
+    font-size: x-small;
+}
+.social-icons {
+    float: right;
+    margin-right: 100px;
+}

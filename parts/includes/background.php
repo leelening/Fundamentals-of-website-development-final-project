@@ -1,0 +1,1 @@
+<img src="http://lening.li/images/IMG_0307.JPG" class="center-block img-responsive" alt="Responsive image"><p class="image-credit">Photo Credit: <a href="http://lening.li">Lening Li</a>

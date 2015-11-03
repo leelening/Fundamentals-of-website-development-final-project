@@ -1,0 +1,26 @@
+#header {
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    font-size: 48px;
+    text-align: center;
+}
+body {
+    background-image: url("../images/website_background__unimportan_by_jezby13.gif");
+}
+#maincontent h2 {
+    font-family: 'Tangerine';
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#maincontent {
+    font-family: "Times New Roman", Times, serif;;
+    font-size: large;
+}
+#maincontent ul {
+    border-style: dashed;
+    border-color: grey;
+    border-width: 1px;
+}
+#maincontent ul ul {
+    border:none;
+}

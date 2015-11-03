@@ -1,0 +1,20 @@
+#header {
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    font-size: 48px;
+    text-align: center;
+}
+#maincontent {
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#map-canvas {
+    width: 900px;
+    height: 400px;
+}
+#maincontent div h1 {
+    font-size: medium;
+}
+body {
+    background-image: url("../images/website_background__unimportan_by_jezby13.gif");
+}

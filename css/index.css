@@ -1,0 +1,14 @@
+#header {
+    font-family: 'Brush Script MT', cursive;
+    font-style: italic;
+    font-size: 48px;
+    text-align: center;
+}
+article {
+    font-size: medium;
+    font-family: 'Cedarville Cursive';
+    text-align: center;
+}
+body {
+    background-image: url("../images/website_background__unimportan_by_jezby13.gif");
+}

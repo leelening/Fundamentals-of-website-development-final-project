@@ -1,0 +1,13 @@
+nav#site-nav ul li {
+    display: inline;
+    padding: 3.5em;
+    font-family: 'Josefin Slab';
+}
+
+#body1 #site-nav #navpart1 a, #body1 #site-nav #navpart1 a:hover,
+#body2 #site-nav #navpart2 a, #body2 #site-nav #navpart2 a:hover,
+#body3 #site-nav #navpart3 a, #body3 #site-nav #navpart3 a:hover,
+#body4 #site-nav #navpart4 a, #body4 #site-nav #navpart4 a:hover,
+#body5 #site-nav #navpart5 a, #body5 #site-nav #navpart5 a:hover,
+#body6 #site-nav #navpart6 a, #body6 #site-nav #navpart6 a:hover
+{ color: #ff0000; background-color: #ffffff;}

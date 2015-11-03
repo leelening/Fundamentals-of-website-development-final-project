@@ -1,0 +1,20 @@
+fieldset#gallery a {
+    /*    margin: 5px, 5px, 5px, 5px;*/
+    margin-left: 40px;
+/*    border-style: double;*/
+    
+}
+fieldset#gallery a img {
+    border: thin dotted black;
+    padding: 15px;
+    margin: 15px;
+    max-width: 100%;
+    height: auto;
+}
+fieldset#gallery {
+    padding-top: 50px;
+    margin-top: 50px;
+}
+fieldset#gallery legend{
+    margin-bottom: 0px;
+}
